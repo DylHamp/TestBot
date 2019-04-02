@@ -1,0 +1,12 @@
+Install commands run
+npm install discord.js
+npm install --save request request-promise cheerio puppeteer
+
+Example
+!match C24
+
+Bot Response:
+Round 2 - Match 24 - Completed
+Top Player: Charlie#11180 - Not Ready
+Bottom Player: Extoplazem#1182 - Ready at 00:19 UTC
+Current Match Score 0 - 2
